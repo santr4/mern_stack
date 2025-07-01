@@ -1,0 +1,27 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santr4/mern_stack.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "aaranyak santra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santr4/mern_stack/issues"
+  },
+  "homepage": "https://github.com/santr4/mern_stack#readme",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}
